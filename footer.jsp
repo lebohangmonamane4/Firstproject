@@ -9,7 +9,7 @@
     <body>
         <footer>
             <p>
-                <i>Designer: Lebohang Monamane</i><br> Email:<b>
+                <i>Designed by: Lebohang Monamane</i><br> Email:<b>
                     <a href="lebohang.monamane@bothouniversity.com">lebohang.monamane@bothouniversity.com</a></b>
             </p>
         </footer>
